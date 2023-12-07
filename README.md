@@ -1,6 +1,6 @@
-## RWKV
+# RWKV Related Logos and Artwork 
+In this repo, we provide RWKV artwork in 2 standard formats (PNG, SVG), and in 3 versions (color/black/white). 
 
-*Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 
 <table class="logos-table">
 	<thead>
@@ -43,4 +43,11 @@
 </table>
 
 
+# Logo guide
 Download the RWKV [logo guidelines](rwkv_logo_guidelines.pdf)
+
+# Use of trademark or logo 
+Please refer to Linux Foundation Trademark Usage page to learn about the usage policy and guidelines: https://www.linuxfoundation.org/trademark-usage. 
+
+# Questions? 
+Please email info@lfaidata.foundation.
